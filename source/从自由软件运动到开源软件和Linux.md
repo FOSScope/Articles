@@ -16,6 +16,8 @@ authorInfo: |
 
 <摘要>
 
+自由软件运动，GNU项目，开源软件，LINUX和FOSScope
+
 <!-- more -->
 
 <正文>
@@ -72,8 +74,6 @@ GNU全称GNU's Not Unix, 是自由软件运动基金会（FSF）旗下的一个�
 
 <img src="https://static.fosscope.com/img/fosscope-logo/FOSScope900.png" title="" alt="FOSScope" data-align="left">
 
-
-
 推荐:
 
 ## 值得一看的开源组织和他们的产品：
@@ -90,7 +90,7 @@ GNU全称GNU's Not Unix, 是自由软件运动基金会（FSF）旗下的一个�
 
 [apache组织](https://www.apache.org/)
 
-<img src="https://www.apache.org/img/asf-estd-1999-logo.jpg" title="" alt="apache" data-align="left">
+<img title="" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" alt="apache" data-align="center">
 
 [eclipse组织](https://www.eclipse.org/)
 
