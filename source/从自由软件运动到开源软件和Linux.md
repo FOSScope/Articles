@@ -13,7 +13,7 @@ authorInfo: |
 ---
 
 
-自由软件运动，GNU 项目，开源软件，LINUX 和 FOSScope
+自由软件运动，GNU 项目，开源软件，Linux 和 FOSScope
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ authorInfo: |
 
 ## 自由软件运动与自由软件基金会
 
-自由软件运动（Free Software Movement，FSM） 是一个影响深远的社会运动。其宗旨在于倡导维护用户对软件的使用、复制、研究、修改和分发等权利。开源软件运动（Open Source Software Movement，OSSM）和自由软件运动部分重合，但仍有显著区别。自由软件运动的发起者为理查德·马修·斯托曼（Richard Matthew Stallman，RMS）。他创立了自由软件基金会（Free Software Foundation，FSF），而自由软件基金会的成果又是GUN/Linux的重要组成部分。自由软件运动的理念在于电脑的使用不应该阻碍个人合作，因此它拒绝专有软件并推广自由软件，它的终极目标在于解放网络世界的每个人。在这一点上，自由软件运动显然比开源软件范围大得多。这里的Free被定义为自由而非免费（Free 一词在英文中同时有这两个含义，但在中文语境中自由与免费是毫不相干的），这意味着商业公司可以采用自由软件的方式发布软件，同时出售服务来获取利润。
+自由软件运动（Free Software Movement，FSM） 是一个影响深远的社会运动。其宗旨在于倡导维护用户对软件的使用、复制、研究、修改和分发等权利。开源软件运动（Open Source Software Movement，OSSM）和自由软件运动部分重合，但仍有显著区别。自由软件运动的发起者为理查德·马修·斯托曼（Richard Matthew Stallman，RMS）。他创立了自由软件基金会（Free Software Foundation，FSF），而自由软件基金会的成果又是 GNU/Linux 的重要组成部分。自由软件运动的理念在于电脑的使用不应该阻碍个人合作，因此它拒绝专有软件并推广自由软件，它的终极目标在于解放网络世界的每个人。在这一点上，自由软件运动显然比开源软件范围大得多。这里的 Free 被定义为自由而非免费（Free 一词在英文中同时有这两个含义，但在中文语境中自由与免费是毫不相干的），这意味着商业公司可以采用自由软件的方式发布软件，同时出售服务来获取利润。
 
 <img src="https://static.fsf.org/common/img/logo-new.png" title="" alt="FSF" data-align="center">
 
@@ -50,7 +50,7 @@ GNU全称为「GNU's Not Unix！」，是自由软件运动基金会（FSF）旗
 
 如今，GNU/Linux 已经是一个可以运行在台式机、笔记本、服务器、嵌入式设备等平台的高度可定制化系统。用户们通常会使用 Red Hat、CentOS、Fedora、Debian、Ubuntu、Arch Linux 等 GNU/Linux 发行版，它们往往集成了计算机使用必须的套件和可供选择的图形界面。我们常常提及的 Linux 其实只是一个操作系统内核，它提供了文件管理，内存调度，CPU 调度等基本功能，而外层的软件乃至编译器体系都是 GNU 的产品。不同的GNU/Linux 发行版之间也有一些区别，比如桌面环境、包管理器等等。GNU/Linux 的 Logo是一只叫做 Tux 的企鹅：
 
-<img src="https://www.kernel.org/theme/images/logos/tux.png" title="" alt="LINUX" data-align="center">
+<img src="https://www.kernel.org/theme/images/logos/tux.png" title="" alt="Linux" data-align="center">
 
 在这里可以下载一些常见的 GNU/Linux 发行版：[https://distrowatch.com/](https://distrowatch.com/)
 
@@ -72,7 +72,6 @@ GNU全称为「GNU's Not Unix！」，是自由软件运动基金会（FSF）旗
 
 <img src="https://static.fosscope.com/img/fosscope-logo/FOSScope900.png" title="" alt="FOSScope" data-align="left">
 
-推荐:
 
 ## 值得一看的开源组织和他们的产品
 
