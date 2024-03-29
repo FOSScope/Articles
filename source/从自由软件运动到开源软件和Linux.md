@@ -1,32 +1,31 @@
 ---
+
 title: 从自由软件运动到开源软件和Linux
 date: 
 author:
-  - Fisherman110
-cover: https://static.fosscope.com/articles_img/2024.3.26/cover.png
-categories:
-  - original
-tags:
-  - original
-authorInfo: |
+
+- Fisherman110
+  cover: https://static.fosscope.com/articles_img/2024.3.26/cover.png
+  categories:
+- original
+  tags:
+- original
+  authorInfo: |
   本文由 [<Fisherman110>](https://github.com/Fisherman110) 编写，[开源观察](https://fosscope.com/) 荣誉推出。
+
 ---
 
 <!-- 所有在被 `<>` 标记的地方都需要被替换成对应的内容 -->
-
-<摘要>
 
 自由软件运动，GNU项目，开源软件，LINUX和FOSScope
 
 <!-- more -->
 
-<正文>
-
 # 从自由软件运动到开源软件和 Linux
 
-## 自由软件运动（FSM）与自由软件基金会（FSF）
+## 自由软件运动与自由软件基金会
 
-自由软件运动（Free Software Movement，FSM） 是一个影响深远的社会运动。其宗旨在于倡导维护用户对软件的使用、复制、研究、修改和分发等权利。开源软件运动（Open Source Software Movement，OSSM）和自由软件运动部分重合，但仍有显著区别。自由软件运动的发起者为理查德·马修·斯托曼（Richard Matthew Stallman，RMS）。他创立了自由软件基金会（Free Software Foundation，FSF），而自由软件基金会的成果又是GUN/Linux的重要组成部分。自由软件运动的理念在于电脑的使用不应该阻碍个人合作，因此它拒绝专有软件并推广自由软件，它的终极目标在于解放网络世界的每个人。在这一点上，自由软件运动显然比开源软件范围大得多。这里的Free被定义为自由而非免费（ Free 一词在英文中同时有这两个含义，但在中文语境中自由与免费是毫不相干的），这意味着商业公司可以采用自由软件的方式发布软件，同时出售服务来获取利润。
+自由软件运动（Free Software Movement，FSM） 是一个影响深远的社会运动。其宗旨在于倡导维护用户对软件的使用、复制、研究、修改和分发等权利。开源软件运动（Open Source Software Movement，OSSM）和自由软件运动部分重合，但仍有显著区别。自由软件运动的发起者为理查德·马修·斯托曼（Richard Matthew Stallman，RMS）。他创立了自由软件基金会（Free Software Foundation，FSF），而自由软件基金会的成果又是GUN/Linux的重要组成部分。自由软件运动的理念在于电脑的使用不应该阻碍个人合作，因此它拒绝专有软件并推广自由软件，它的终极目标在于解放网络世界的每个人。在这一点上，自由软件运动显然比开源软件范围大得多。这里的Free被定义为自由而非免费（Free 一词在英文中同时有这两个含义，但在中文语境中自由与免费是毫不相干的），这意味着商业公司可以采用自由软件的方式发布软件，同时出售服务来获取利润。
 
 <img src="https://static.fsf.org/common/img/logo-new.png" title="" alt="FSF" data-align="center">
 
@@ -51,7 +50,7 @@ GNU全称为「GNU's Not Unix！」，是自由软件运动基金会（FSF）旗
 
 ## GNU/Linux 操作系统
 
-在 UNIX 开始取消授权之后，芬兰的 Linus Torvalds 在教学使用的 MINIX 上面开发了  Linux 内核，它采用 GNU GPL 协议发布。此时 GNU 的内核 Hurd 还不可用，许多开发者（包括自由软件基金会）致力于将GNU的成果集成到Linux内核上面（ Linux 内核由 Linux 基金会组织维护）。加上红帽（Red Hat）公司的推广，搭载 Linux 内核和 GNU 套件的操作系统迅速变得流行起来。
+在 UNIX 开始取消授权之后，芬兰的 Linus Torvalds 在教学使用的 MINIX 上面开发了  Linux 内核，它采用 GNU GPL 协议发布。此时 GNU 的内核 Hurd 还不可用，许多开发者（包括自由软件基金会）致力于将GNU的成果集成到Linux内核上面（Linux 内核由 Linux 基金会组织维护）。加上红帽（Red Hat）公司的推广，搭载 Linux 内核和 GNU 套件的操作系统迅速变得流行起来。
 
 如今，GNU/Linux 已经是一个可以运行在台式机、笔记本、服务器、嵌入式设备等平台的高度可定制化系统。用户们通常会使用 Red Hat、CentOS、Fedora、Debian、Ubuntu、Arch Linux 等 GNU/Linux 发行版，它们往往集成了计算机使用必须的套件和可供选择的图形界面。我们常常提及的 Linux 其实只是一个操作系统内核，它提供了文件管理，内存调度，CPU 调度等基本功能，而外层的软件乃至编译器体系都是 GNU 的产品。不同的GNU/Linux 发行版之间也有一些区别，比如桌面环境、包管理器等等。GNU/Linux 的 Logo是一只叫做 Tux 的企鹅：
 
@@ -69,7 +68,7 @@ GNU全称为「GNU's Not Unix！」，是自由软件运动基金会（FSF）旗
 - 撰写开源技术相关的教程
 - 翻译国外优秀的开源技术文章
 
-开源中国（https://linux.cn）站长硬核老王的停更是本站成立的契机。为了继续传播开源理念和资讯，原Linux中国翻译组（LCTT）的几位成员发起了 FOSScope 组织。
+开源中国（<https://linux.cn>）站长硬核老王的停更是本站成立的契机。为了继续传播开源理念和资讯，原Linux中国翻译组（LCTT）的几位成员发起了 FOSScope 组织。
 
 本站点的网址是 [https://fosscope.com](https://fosscope.com)，Github 链接为 [开源观察｜FOSScope · GitHub](https://github.com/FOSScope)
 
@@ -77,25 +76,23 @@ GNU全称为「GNU's Not Unix！」，是自由软件运动基金会（FSF）旗
 
 <img src="https://static.fosscope.com/img/fosscope-logo/FOSScope900.png" title="" alt="FOSScope" data-align="left">
 
-推荐:
-
 ## 值得一看的开源组织和他们的产品：
 
-[GUN组织]([https://www.gnu.org/](https://www.gnu.org/))
+[GNU 组织]([https://www.gnu.org/](https://www.gnu.org/))
 
 <img title="" src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="" data-align="center">
 
-[Linux组织](https://www.linuxfoundation.org/)
+[Linux 组织](https://www.linuxfoundation.org/)
 
 <img title="" src="https://www.linuxfoundation.org/hubfs/LF%20Logo%20White.svg" alt="linux基金会" data-align="center">
 
 [云原生组织](https://www.cncf.io/)
 
-[apache组织](https://www.apache.org/)
+[Apache 组织](https://www.apache.org/)
 
 <img title="" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" alt="apache" data-align="center">
 
-[eclipse组织](https://www.eclipse.org/)
+[Eclipse 组织](https://www.eclipse.org/)
 
 <img src="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-grey-orange.svg" title="" alt="eclipse" data-align="center">
 
