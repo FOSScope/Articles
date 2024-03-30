@@ -4,7 +4,8 @@ date: <发布时间>
 author:
   - <原作者>
   - <转载者>
-cover: <封面图片地址>
+banner: <封面图片地址>
+cover: <封面图片地址（与 banner 一致）>
 categories:
   - 转载
   - <类型>
