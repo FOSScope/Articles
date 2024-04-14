@@ -3,7 +3,8 @@ title: <标题>
 date: <发布时间>
 author:
   - <作者ID>
-cover: <封面图片地址>
+banner: <封面图片地址>
+cover: <封面图片地址（与 banner 一致）>
 categories:
   - <类型>
 tags:
